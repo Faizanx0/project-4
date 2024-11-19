@@ -80,6 +80,7 @@ span{
     display: flex;
     justify-content: space-between;
     overflow-x: auto;
+    overflow-y: hidden;
 }
 
 .elem{
@@ -126,7 +127,6 @@ span{
     height:56%;
     display: flex;
     overflow-x: auto;
-    overflow-y:hidden;
 }
 
 #image::-webkit-scrollbar{
